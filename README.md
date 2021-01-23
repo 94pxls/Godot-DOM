@@ -43,4 +43,4 @@ func _set_render_in_editor(boolean):
 		tree.draw(self, position)
 ```
 
-![Screenshot](https://github.com/94pxls/Godot-Dom/blob/master/github_assets/screenshot.png?raw=true)
+![Screenshot](https://github.com/94pxls/Godot-Dom/blob/main/github_assets/screenshot.png?raw=true)
